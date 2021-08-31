@@ -13,3 +13,9 @@
 .footer-img {
 	margin: 0 10px;
 }
+
+@media (max-width: 739px) {
+	.footer-img, .footer p {
+		margin: 10px 0px;
+	}
+}
