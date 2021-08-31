@@ -36,3 +36,10 @@
 	color: #252525;
 	padding: 10px 20px;
 }
+
+@media (max-width: 739px) {
+	.locais-img, .locais-info {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
