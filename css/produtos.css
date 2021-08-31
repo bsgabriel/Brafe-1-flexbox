@@ -58,3 +58,10 @@ h2.produtos-mineiro::before {
 	padding: 15px 0;
 	margin: 20px  auto 0 auto;
 }
+
+@media (max-width: 739px) {
+	.produtos-item {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
